@@ -1,6 +1,6 @@
 ---
 title: Home Cooking with John Tait
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2019-04-09'
 thumb_img_alt: lorem-ipsum
 excerpt: ''
