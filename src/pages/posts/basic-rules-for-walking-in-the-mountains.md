@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Home Cooking with John Tait
 excerpt: ''
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
